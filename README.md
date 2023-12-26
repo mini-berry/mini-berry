@@ -4,4 +4,4 @@ MiniBerry
 嵌入式  
 STM32 C# QT OpenCV开发者  
 ### 我的活动
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mini-berry&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mini-berry&theme=github&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
